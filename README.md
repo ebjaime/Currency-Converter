@@ -4,6 +4,8 @@
 
 Currency Converter with own interface.
 
+Includes own script-written version
+
 Exchanges between more than 30 currrencies from around the world.
 
 Rates taken from 'http://www.x-rates.com/table/?from=EUR&amount=1'
